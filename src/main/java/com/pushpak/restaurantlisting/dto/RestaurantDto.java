@@ -14,6 +14,4 @@ public class RestaurantDto {
     private String city;
     private double rating;
     private String description;
-
-    // Getters and Setters
 }
